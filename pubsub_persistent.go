@@ -133,6 +133,12 @@ func (p *persistentPubSub) refresh() error {
 		go func() {
 			select {
 			case <-errCh:
+				// temp fix: https://github.com/neffos-contrib/radix/issues/184
+				select {
+				case <-p.closeCh:
+					return
+				default:
+				}
 				p.l.Lock()
 				// It's possible that one of the methods (e.g. Subscribe)
 				// already had the lock, saw the error, and called refresh. This

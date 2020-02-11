@@ -8,10 +8,10 @@ github.com/joomcode/errorx v0.8.0 h1:GhAqPtcYuo1O7TOIbtzEIDzPGQ3SrKJ3tdjXNmUtDNo
 github.com/joomcode/errorx v0.8.0/go.mod h1:kgco15ekB6cs+4Xjzo7SPeXzx38PbJzBwbnu9qfVNHQ=
 github.com/joomcode/redispipe v0.9.0 h1:NukwwIvxhg6r2lVxa1RJhEZXYPZZF/OX9WZJk+2cK1Q=
 github.com/joomcode/redispipe v0.9.0/go.mod h1:4S/gpBCZ62pB/3+XLNWDH7jQnB0vxmpddAMBva2adpM=
-github.com/mediocregopher/mediocre-go-lib v0.0.0-20181029021733-cb65787f37ed h1:3dQJqqDouawQgl3gBE1PNHKFkJYGEuFb1DbSlaxdosE=
-github.com/mediocregopher/mediocre-go-lib v0.0.0-20181029021733-cb65787f37ed/go.mod h1:dSsfyI2zABAdhcbvkXqgxOxrCsbYeHCPgrZkku60dSg=
-github.com/mediocregopher/radix.v2 v0.0.0-20181115013041-b67df6e626f9 h1:ViNuGS149jgnttqhc6XQNPwdupEMBXqCx9wtlW7P3sA=
-github.com/mediocregopher/radix.v2 v0.0.0-20181115013041-b67df6e626f9/go.mod h1:fLRUbhbSd5Px2yKUaGYYPltlyxi1guJz1vCmo1RQL50=
+github.com/neffos-contrib/mediocre-go-lib v0.0.0-20181029021733-cb65787f37ed h1:3dQJqqDouawQgl3gBE1PNHKFkJYGEuFb1DbSlaxdosE=
+github.com/neffos-contrib/mediocre-go-lib v0.0.0-20181029021733-cb65787f37ed/go.mod h1:dSsfyI2zABAdhcbvkXqgxOxrCsbYeHCPgrZkku60dSg=
+github.com/neffos-contrib/radix.v2 v0.0.0-20181115013041-b67df6e626f9 h1:ViNuGS149jgnttqhc6XQNPwdupEMBXqCx9wtlW7P3sA=
+github.com/neffos-contrib/radix.v2 v0.0.0-20181115013041-b67df6e626f9/go.mod h1:fLRUbhbSd5Px2yKUaGYYPltlyxi1guJz1vCmo1RQL50=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/stretchr/testify v1.2.2 h1:bSDNvY7ZPG5RlJ8otE/7V6gMiyenm9RtJ7IUVIAoJ1w=

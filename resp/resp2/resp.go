@@ -18,8 +18,8 @@ import (
 
 	errors "golang.org/x/xerrors"
 
-	"github.com/mediocregopher/radix/v3/internal/bytesutil"
-	"github.com/mediocregopher/radix/v3/resp"
+	"github.com/neffos-contrib/radix/v3/internal/bytesutil"
+	"github.com/neffos-contrib/radix/v3/resp"
 )
 
 var delim = []byte{'\r', '\n'}
